@@ -1,3 +1,6 @@
+notifications:
+   slack: 2017-scc-assignment:T0iKEZ3fjiilEAwWIxTCbjD9
+
 language: cpp
 sudo: false
 
